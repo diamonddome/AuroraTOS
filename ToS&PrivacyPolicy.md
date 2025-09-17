@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Terms of Service
+## Terms of Service
 
 ### 1. Acceptance of Terms
 By accessing or using Aurora Overlay ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, you may not use the App.
@@ -47,7 +47,7 @@ By continuing to use the App after such updates, you automatically agree to the 
 
 ---
 
-## 🛡️ Data Privacy
+## Data Privacy
 
 The data we collect on each individual is only for authentication, app safety, and user customization purposes. In compliance with digital privacy laws, you may request to see all the data we store on you by creating a ticket in the Diamond Dome Discord server.
 
@@ -55,7 +55,7 @@ The data we collect on each individual is only for authentication, app safety, a
 
 ---
 
-## ⚠️ Limitation of Liability & Warranty Disclaimer
+## Limitation of Liability & Warranty Disclaimer
 
 ### No Warranty
 The app, Aurora Overlay, is provided "AS IS" and "AS AVAILABLE," without any representation or warranty of any kind, express or implied. This includes, but is not limited to, warranties of merchantability, fitness for a particular purpose, title, non-infringement, or that the app will run uninterrupted, error-free, or free of harmful components. Your use is entirely at your own risk.
