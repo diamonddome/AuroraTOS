@@ -19,7 +19,7 @@ We reserve the right, at our sole discretion, to change, modify, add, or remove 
 
 All text, graphics, interfaces, photographs, trademarks, logos, sounds, music, artwork, and computer code (collectively, the “Content”), including but not limited to the design, structure, selection, coordination, expression, “look and feel,” and arrangement of such Content contained in the App, is owned, controlled, or licensed by or to Aurora Overlay.  
 
-The Content is protected by copyright, patent, trademark, trade secret, unfair competition, and other intellectual property laws. Except as expressly provided in these Terms of Service, no Content may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, or distributed in any way to any other computer, server, website, or medium for publication or distribution or for any commercial enterprise, without our express prior written consent.  
+Except as expressly provided in these Terms of Service, no Content may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, or distributed in any way to any other computer, server, website, or medium for publication or distribution or for any commercial enterprise, without our express prior written consent.  
 
 You may use information purposely made available by Aurora Overlay for downloading from within the App (such as user guides, FAQs, and similar materials), provided that you (1) do not remove any proprietary notice language in all copies, (2) use such information only for your personal, non-commercial informational purposes, (3) make no modifications to such information, and (4) do not make any additional representations or warranties relating to such documents.  
 
