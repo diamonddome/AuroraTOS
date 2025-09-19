@@ -7,201 +7,231 @@ Effective Date: September 18, 2025
 
 ## I. Introduction  
 
-These Terms of Service (the “Terms”) and Privacy Policy (the “Policy”) form a legally binding agreement (the “Agreement”) between the end user (“you,” “your,” or the “User”) and the creators and operators of Aurora Overlay (“Aurora Overlay,” “the App,” “we,” “our,” or “us”). This Agreement governs your access to and use of the App and associated services.  
+These Terms of Service (the “Terms”) and Privacy Policy (the “Policy”) constitute a legally binding agreement (the “Agreement”) between you, the individual or entity using Aurora Overlay (“you,” “your,” or the “User”), and the creators and operators of Aurora Overlay (“Aurora Overlay,” “the App,” “we,” “us,” or “our”).  
 
-By downloading, installing, accessing, or using the App, you acknowledge that you have read, understood, and agreed to be bound by this Agreement. If you do not accept these Terms, you must not use the App.  
+This Agreement governs your use of the App, including all software, services, features, and related content. By downloading, installing, accessing, or using the App, you represent and warrant that you have read, understood, and agreed to be bound by this Agreement in its entirety.  
 
-Aurora Overlay is provided strictly “as is” and “as available.” Access and use are at your sole risk, subject to the disclaimers and limitations of liability described herein.  
+If you do not agree to this Agreement, you must immediately cease all use of the App. Your continued use of the App following any modification to this Agreement constitutes acceptance of the revised version.  
 
----
-
-## II. Eligibility and Authority  
-
-The App is intended only for individuals who have the legal capacity to enter into binding contracts. By using the App, you represent and warrant that:  
-
-- You are at least the age of majority in your jurisdiction of residence, or that you have obtained valid parental or guardian consent.  
-- You are not a resident of a jurisdiction in which the use of the App is prohibited by law.  
-- You are not subject to sanctions or restrictions that would prevent you from accessing U.S.-based software or services.  
-
-If you are accessing the App on behalf of a legal entity, you further represent that you are authorized to bind that entity to this Agreement.  
+Aurora Overlay is provided strictly “as is” and “as available.” We disclaim all responsibility for uninterrupted, error-free operation. You assume all risks associated with your use of the App, subject to the disclaimers and limitations of liability set forth herein.  
 
 ---
 
-## III. License Grant  
+## II. Eligibility and Capacity  
 
-Aurora Overlay grants you a limited, personal, non-exclusive, non-transferable, non-sublicensable, and revocable license (the “License”) to use the App for its intended purpose in accordance with these Terms.  
+Use of the App is restricted to individuals who are capable of entering into legally binding contracts under applicable law. By using the App, you represent and warrant that:  
 
-This License does not constitute a sale and does not convey to you any ownership rights. Aurora Overlay retains all right, title, and interest in and to the App, including all intellectual property rights, trade secrets, trademarks, logos, and content.  
+1. You are at least the age of majority in your jurisdiction of residence (generally eighteen (18) years of age or older) or that you have obtained verifiable parental or guardian consent.  
+2. You are not located in a country or region subject to comprehensive U.S. sanctions, embargoes, or export restrictions.  
+3. You are not a person barred from receiving U.S.-based software or services under applicable laws and regulations.  
+4. If you are using the App on behalf of an organization, you are authorized to bind that organization to this Agreement.  
 
-All rights not expressly granted are reserved.  
+If these conditions are not met, you must not use the App.  
 
 ---
 
-## IV. Intellectual Property  
+## III. License Grant and Scope  
 
-Aurora Overlay, including its software code, design, user interface, documentation, and all associated materials, are protected under copyright law, trademark law, trade secret law, and other applicable intellectual property regimes.  
+Subject to compliance with this Agreement, Aurora Overlay grants to you a limited, personal, non-exclusive, non-transferable, non-sublicensable, and revocable license (the “License”) to download, install, and use the App solely for your lawful personal or internal business purposes.  
 
-The names, logos, and branding associated with Aurora Overlay are trademarks of the Developers. Unauthorized use may result in civil or criminal liability.  
+This License does not constitute a sale of the App or any portion thereof, nor does it convey to you any ownership rights in the App, its source code, or associated intellectual property. All rights not expressly granted are reserved by Aurora Overlay and its licensors.  
 
-You agree not to remove, obscure, or alter any proprietary notices affixed to the App.  
+Any attempt to use the App beyond the scope of this License, including unauthorized reproduction, modification, distribution, or exploitation, is strictly prohibited and constitutes a material breach of this Agreement.  
+
+---
+
+## IV. Intellectual Property Rights  
+
+Aurora Overlay, including all software code, user interfaces, designs, documentation, content, graphics, and trade dress, is protected by copyright law, trademark law, patent law, trade secret law, and other applicable intellectual property regimes.  
+
+The names “Aurora Overlay” and associated logos, graphics, and brand identifiers are trademarks of the Developers. No right, license, or interest in such trademarks is granted except as expressly set forth in this Agreement.  
+
+You may not copy, reproduce, republish, upload, post, transmit, distribute, or modify the App or any portion thereof without prior written consent, except as expressly permitted by law.  
 
 ---
 
 ## V. Restrictions on Use  
 
-The User shall not, directly or indirectly:  
+The User agrees that they shall not:  
 
-1. Copy, reproduce, or distribute the App except as expressly permitted under this License.  
-2. Modify, adapt, translate, or create derivative works based on the App.  
-3. Reverse-engineer, decompile, disassemble, or otherwise attempt to derive the source code.  
-4. Circumvent or disable technical protections, authentication mechanisms, or digital rights management.  
-5. Sell, lease, rent, sublicense, or otherwise commercialize the App without written authorization.  
-6. Use the App in a manner that infringes upon the rights of third parties.  
-7. Use the App for unlawful, harmful, abusive, or fraudulent purposes.  
-8. Introduce viruses, malware, or harmful components through or into the App.  
+- Copy, reproduce, or distribute the App except as expressly permitted under this Agreement.  
+- Modify, adapt, translate, or create derivative works based upon the App.  
+- Reverse-engineer, decompile, disassemble, or otherwise attempt to derive source code.  
+- Circumvent, disable, or tamper with digital rights management, licensing, or security protections.  
+- Resell, lease, rent, sublicense, or otherwise transfer rights to the App.  
+- Use the App in any manner that infringes upon the rights of third parties, including intellectual property rights, privacy rights, or publicity rights.  
+- Introduce malicious code, viruses, or harmful components into or through the App.  
+- Exploit the App for high-risk activities, including but not limited to medical devices, aviation systems, or nuclear operations, where failure could result in death or serious bodily injury.  
 
-Violation of this Section will result in immediate termination of the License and may expose the User to civil and criminal penalties.  
-
----
-
-## VI. Payments and Subscriptions  
-
-Certain features of the App may require payment of fees (the “Fees”). By providing payment information, you authorize us or our third-party processors to charge the Fees to your chosen payment method.  
-
-All Fees are non-refundable except where required by applicable law. If a subscription service is offered, your subscription will automatically renew unless you cancel prior to renewal.  
-
-You are solely responsible for all taxes, duties, and governmental charges imposed in connection with your purchase.  
+Violation of these restrictions will immediately terminate your License and may subject you to civil, criminal, and injunctive remedies.  
 
 ---
 
-## VII. Updates and Modifications  
+## VI. Payments, Subscriptions, and Refunds  
 
-We may update, modify, enhance, suspend, or discontinue the App at any time, with or without notice. Updates may include security patches, bug fixes, feature improvements, or modifications to the user interface.  
+Access to certain features of the App may require payment of fees (“Fees”). By providing payment details, you authorize Aurora Overlay and its third-party processors to charge the Fees to your selected payment method.  
 
-By continuing to use the App after updates are made available, you agree to be bound by the revised functionality and Terms.  
+All Fees are final, non-refundable, and non-transferable, except as required by law. Refunds, if issued, are at our sole discretion.  
+
+If subscription services are provided, subscriptions will renew automatically at the end of each billing cycle unless canceled. By not canceling, you authorize continued charges until you terminate your subscription.  
+
+You are responsible for all applicable taxes, duties, and governmental charges.  
+
+---
+
+## VII. Updates, Modifications, and Availability  
+
+Aurora Overlay may, in its sole discretion, update, enhance, modify, suspend, or discontinue the App or any part thereof at any time, with or without notice.  
+
+The App may require updates to function properly. By continuing to use the App, you consent to receive and install such updates automatically.  
+
+We do not guarantee that the App will remain available at all times or in all locations.  
 
 ---
 
 ## VIII. Service Interruptions and Force Majeure  
 
-The availability of the App may be interrupted for maintenance, updates, or unforeseen circumstances. Aurora Overlay shall not be responsible for any delay or failure to perform resulting from causes beyond our reasonable control, including but not limited to acts of God, natural disasters, labor disputes, power outages, internet failures, acts of war, government restrictions, or equipment malfunctions (“Force Majeure Events”).  
+Aurora Overlay does not warrant uninterrupted availability. The App may be suspended temporarily without notice for maintenance, upgrades, or other technical reasons.  
+
+Aurora Overlay shall not be liable for delays or failures resulting from causes outside our reasonable control, including but not limited to natural disasters, acts of God, war, terrorism, labor disputes, electrical outages, telecommunications failures, pandemics, or government restrictions (“Force Majeure Events”).  
 
 ---
 
 ## IX. Third-Party Services  
 
-The App may provide access to, integrate with, or rely on third-party services, software, or content (collectively, “Third-Party Services”). We do not control and are not responsible for Third-Party Services. Your use of Third-Party Services is at your own risk and subject to the applicable third-party terms and policies.  
+The App may integrate with or rely upon third-party services, applications, or content (“Third-Party Services”). Aurora Overlay does not control and is not responsible for the availability, accuracy, or performance of Third-Party Services.  
+
+Use of Third-Party Services is at your sole risk and subject to the terms and privacy policies of the third parties providing them.  
 
 ---
 
 ## X. Termination  
 
-Aurora Overlay may suspend or terminate your License or access to the App, at our sole discretion, with or without notice, for reasons including but not limited to:  
+Aurora Overlay may suspend or terminate your access, with or without notice, if:  
 
-- Breach of these Terms.  
-- Unauthorized or unlawful use.  
-- Security or technical issues.  
-- Compliance with legal requirements.  
+- You breach any provision of this Agreement.  
+- Your use poses a security or operational risk.  
+- Termination is required by law.  
 
-Upon termination, your License shall immediately cease, and you must delete all copies of the App in your possession.  
+Upon termination, your License shall immediately cease. You must delete all copies of the App and associated materials. Termination does not relieve you of obligations accrued prior to termination.  
 
 ---
 
 ## XI. Indemnification  
 
-You agree to indemnify, defend, and hold harmless Aurora Overlay, its affiliates, officers, employees, licensors, and service providers from any claims, liabilities, damages, losses, and expenses, including legal fees, arising out of or connected to your use or misuse of the App, your violation of these Terms, or your infringement of third-party rights.  
+You agree to indemnify, defend, and hold harmless Aurora Overlay, its affiliates, officers, employees, licensors, and service providers from and against any claims, damages, losses, liabilities, costs, and expenses (including legal fees) arising from:  
+
+- Your use or misuse of the App.  
+- Your violation of this Agreement.  
+- Your infringement of third-party rights.  
+
+This obligation survives termination of the Agreement.  
 
 ---
 
 ## XII. Disclaimer of Warranties  
 
-The App is provided on an “as is” and “as available” basis without warranties of any kind, express or implied. To the fullest extent permitted by law, we disclaim all warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, and continuous availability.  
+The App is provided on an “as is” and “as available” basis. To the fullest extent permitted by law, Aurora Overlay disclaims all warranties, whether express, implied, or statutory, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, reliability, and uninterrupted availability.  
 
-We do not warrant that the App will be uninterrupted, error-free, secure, or free of harmful components, or that any defects will be corrected.  
+We do not warrant that the App will be error-free, secure, or compatible with all devices or operating systems.  
 
 ---
 
 ## XIII. Limitation of Liability  
 
-To the maximum extent permitted by law, Aurora Overlay shall not be liable for any indirect, incidental, consequential, special, punitive, or exemplary damages, including but not limited to loss of profits, data, goodwill, or business opportunities, even if advised of the possibility of such damages.  
+To the maximum extent permitted by law, Aurora Overlay shall not be liable for any indirect, incidental, consequential, special, punitive, or exemplary damages, including loss of profits, data, goodwill, or other intangible losses, even if advised of the possibility of such damages.  
 
-Our total aggregate liability for all claims shall not exceed the greater of one hundred U.S. dollars (USD $100) or the total amount you paid for access to the App in the twelve (12) months preceding the event giving rise to liability.  
+Aurora Overlay’s total liability shall not exceed the greater of one hundred U.S. dollars (USD $100) or the total amount paid by you for the App during the twelve (12) months preceding the event giving rise to liability.  
 
 ---
 
-## XIV. Governing Law and Jurisdiction  
+## XIV. Governing Law  
 
-This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, United States, without regard to conflict of law provisions.  
-
-Any disputes shall be resolved exclusively in the state and federal courts of Delaware. By using the App, you consent to the personal jurisdiction and venue of such courts.  
+This Agreement shall be governed by and construed under the laws of the State of Delaware, United States, without regard to conflict of law principles.  
 
 ---
 
 ## XV. Privacy Policy  
 
 ### A. Collection of Information  
-Aurora Overlay collects only the minimum data necessary to operate the App effectively, including authentication data, session identifiers, device information, and usage statistics.  
+We collect only data necessary to operate the App, including authentication credentials, session identifiers, device information, and usage statistics.  
 
 ### B. Use of Information  
-Data is used solely for purposes of authentication, app safety, performance optimization, and user customization.  
+Collected data is used exclusively for authentication, app safety, customization, and performance optimization.  
 
-### C. Data Sharing  
-We do not sell or trade personal data. We may share limited data with trusted third-party service providers for the sole purpose of operating the App, subject to contractual safeguards.  
+### C. Sharing of Information  
+We do not sell or rent personal data. Limited data may be shared with service providers strictly for operational purposes, subject to contractual safeguards.  
 
-### D. Data Transfers  
-Data may be transferred across borders and processed in jurisdictions with differing levels of legal protection. By using the App, you consent to such transfers.  
+### D. Retention of Information  
+Data is retained only as long as necessary for the purposes outlined in this Policy and is securely deleted when no longer required.  
 
-### E. Data Retention  
-We retain personal data only as long as necessary for the purposes set forth in this Policy or as required by law. Data that is no longer required will be securely deleted.  
+### E. Breach Notifications  
+If a data breach occurs, we will notify supervisory authorities within seventy-two (72) hours, where required, and affected users without undue delay.  
 
-### F. Breach Notification  
-In the event of a breach of personal data, Aurora Overlay will notify authorities within seventy-two (72) hours, where required, and notify affected Users without undue delay.  
+### F. User Rights  
+Depending on jurisdiction, users may have rights to access, correct, delete, or restrict processing of their personal data.  
 
-### G. User Rights  
-Depending on jurisdiction, Users may have rights under data protection laws, including the right to access, rectify, delete, or restrict processing of personal data. Requests may be submitted through the designated support channels.  
-
-### H. Children’s Privacy  
-Aurora Overlay does not knowingly collect personal information from children under the age of thirteen (13) or under the age of majority in jurisdictions where a higher age applies. If such information is discovered, it will be deleted immediately.  
+### G. Children’s Privacy  
+The App is not intended for children under the age of thirteen (13) or under the age of majority where a higher age applies.  
 
 ---
 
 ## XVI. Compliance with Specific Laws  
 
-### A. General Data Protection Regulation (GDPR)  
-Where the European Union’s GDPR applies, Aurora Overlay acts as a “data controller” with respect to personal data. Users in the EU have additional rights including the right to portability, the right to object to processing, and the right to lodge complaints with supervisory authorities.  
+Aurora Overlay complies with applicable data protection laws, including but not limited to:  
 
-### B. California Consumer Privacy Act (CCPA)  
-For residents of California, Aurora Overlay does not sell personal data as defined under the CCPA. California Users may request disclosure of categories of data collected and request deletion of their data, subject to lawful exceptions.  
-
-### C. Other Jurisdictions  
-Aurora Overlay complies with other applicable privacy and consumer protection laws to the extent required in the jurisdictions in which it operates.  
+- **General Data Protection Regulation (GDPR)**: EU users have rights to access, rectify, delete, and port personal data.  
+- **California Consumer Privacy Act (CCPA)**: California residents may request disclosure of collected data categories and deletion of personal data.  
+- **Other Jurisdictions**: Additional rights may apply under the laws of other jurisdictions.  
 
 ---
 
 ## XVII. Export Compliance  
 
-You agree not to use or export the App in violation of applicable export laws and regulations, including U.S. Export Administration Regulations. You represent that you are not a prohibited person under such laws.  
+You represent that you are not subject to restrictions under U.S. export control laws. You may not use, export, or re-export the App in violation of applicable laws or to prohibited destinations.  
 
 ---
 
-## XVIII. Severability  
+## XVIII. Dispute Resolution and Arbitration  
 
-If any provision of this Agreement is found to be invalid, unlawful, or unenforceable, the remaining provisions shall remain in full force and effect.  
+### A. Informal Resolution  
+You agree to first attempt to resolve disputes informally by contacting Aurora Overlay support.  
+
+### B. Binding Arbitration  
+Unresolved disputes shall be settled by binding arbitration under the Federal Arbitration Act (“FAA”), administered by the American Arbitration Association (“AAA”) under its rules.  
+
+### C. Class Action Waiver  
+Disputes must be brought individually and not as a class, collective, or representative action.  
+
+### D. Exceptions  
+Either party may bring claims in small claims court or seek injunctive relief in cases of intellectual property infringement.  
+
+### E. Severability  
+If the class action waiver is found unenforceable, this arbitration provision shall be null and void.  
+
+### F. Opt-Out  
+You may opt out of arbitration by submitting written notice within thirty (30) days of accepting these Terms.  
 
 ---
 
-## XIX. Waiver  
+## XIX. Severability  
 
-Failure by Aurora Overlay to enforce any provision of this Agreement shall not constitute a waiver of that provision or any other provision.  
-
----
-
-## XX. Entire Agreement  
-
-This Agreement, consisting of these Terms of Service and Privacy Policy, constitutes the entire agreement between you and Aurora Overlay concerning the App. It supersedes all prior or contemporaneous agreements, communications, or understandings.  
+If any provision of this Agreement is invalid or unenforceable, the remaining provisions shall remain in effect.  
 
 ---
 
-## XXI. Acknowledgment  
+## XX. Waiver  
 
-By using Aurora Overlay, you acknowledge that you have read, understood, and agree to be bound by this Agreement.  
+No waiver of any provision shall constitute a continuing waiver.  
+
+---
+
+## XXI. Entire Agreement  
+
+This Agreement represents the entire understanding between you and Aurora Overlay, superseding all prior agreements.  
+
+---
+
+## XXII. Acknowledgment  
+
+By using Aurora Overlay, you acknowledge that you have read, understood, and agreed to this Agreement in full.  
