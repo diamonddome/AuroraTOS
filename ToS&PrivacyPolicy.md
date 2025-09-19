@@ -1,8 +1,6 @@
 # Aurora Overlay  
 Terms of Service and Privacy Policy  
 
-Effective Date: September 18, 2025  
-
 ---
 
 ## I. Ownership of the App; Agreement to Terms of Service  
